@@ -1,0 +1,10 @@
+obj/
+bin/
+
+*.o
+det_app
+
+*.swp
+*~
+
+*.dSYM/
